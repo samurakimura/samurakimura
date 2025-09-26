@@ -1,6 +1,6 @@
 ## Hi, I'm Samuel 🙋🏽‍♂️
 # 💫 About Me:
-🏫I'm currently working on a school system<br>🧑🏽‍💻I'm a Programming student<br>😁Currently looking for an attachment<br>
+🏫I'm currently working on a driving school system<br>🧑🏽‍💻I'm a Programming student<br>😁Currently looking for an attachment<br>
 
 
 ## 🌐 Socials:
